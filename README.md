@@ -6,7 +6,7 @@
 2. Javascritpt 专题系列
 
 ## Javascript 深入系列
-1. [原型和原型链](https://github.com/mqyqingfeng/Blog/issues/17)
+1. [原型和原型链](https://github.com/huiyiwanan/Blog2023/issues/1)
 
 ## Javascritpt 专题系列
 1. [防抖](https://github.com/mqyqingfeng/Blog/issues/17)
