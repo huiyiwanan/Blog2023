@@ -5,9 +5,9 @@
 1. Javascript 深入系列
 2. Javascritpt 专题系列
 
-## Javascript 深入系列
+## Javascript 深入系列 - 师从冴羽
 1. [原型和原型链](https://github.com/huiyiwanan/Blog2023/issues/1)
 
-## Javascritpt 专题系列
+## Javascritpt 专题系列 - 师从冴羽
 1. [防抖](https://github.com/mqyqingfeng/Blog/issues/17)
 2. [节流](https://github.com/mqyqingfeng/Blog/issues/17)
