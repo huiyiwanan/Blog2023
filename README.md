@@ -12,6 +12,7 @@ huiyiwanan的博客
 4. [JavaScript深入之变量对象](https://github.com/huiyiwanan/Blog2023/issues/4)
 5. [JavaScript深入之作用域链](https://github.com/huiyiwanan/Blog2023/issues/5)
 6. [JavaScript深入之从ECMAScript规范解读this](https://github.com/huiyiwanan/Blog2023/issues/6)
+7. [JavaScript深入之执行上下文](https://github.com/huiyiwanan/Blog2023/issues/7)
 
 ## Javascritpt 专题系列 - 学自[冴羽](https://github.com/mqyqingfeng/Blog)
 1. [防抖](https://github.com/mqyqingfeng/Blog/issues/17)
