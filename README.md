@@ -7,11 +7,11 @@ huiyiwanan的博客
 
 ## Javascript 深入系列 - 学自[冴羽](https://github.com/mqyqingfeng/Blog)
 1. [JavaScript深入之从原型到原型链](https://github.com/huiyiwanan/Blog2023/issues/1)
-1. [JavaScript深入之词法作用域和动态作用域](https://github.com/huiyiwanan/Blog2023/issues/2)
-1. [JavaScript深入之从原型到原型链](https://github.com/huiyiwanan/Blog2023/issues/1)
-1. [JavaScript深入之从原型到原型链](https://github.com/huiyiwanan/Blog2023/issues/1)
-1. [JavaScript深入之从原型到原型链](https://github.com/huiyiwanan/Blog2023/issues/1)
-1. [JavaScript深入之从原型到原型链](https://github.com/huiyiwanan/Blog2023/issues/1)
+2. [JavaScript深入之词法作用域和动态作用域](https://github.com/huiyiwanan/Blog2023/issues/2)
+3. [JavaScript深入之执行上下文栈](https://github.com/huiyiwanan/Blog2023/issues/3)
+4. [JavaScript深入之变量对象](https://github.com/huiyiwanan/Blog2023/issues/4)
+5. [JavaScript深入之作用域链](https://github.com/huiyiwanan/Blog2023/issues/5)
+6. [JavaScript深入之从ECMAScript规范解读this](https://github.com/huiyiwanan/Blog2023/issues/6)
 
 ## Javascritpt 专题系列 - 学自[冴羽](https://github.com/mqyqingfeng/Blog)
 1. [防抖](https://github.com/mqyqingfeng/Blog/issues/17)
