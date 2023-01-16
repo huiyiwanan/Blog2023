@@ -2,8 +2,8 @@
 木守宫的博客
 
 ## 更新日志
-1. Javascript 深入系列
-2. Javascritpt 专题系列
+1. Javascript 深入系列 - 2023-01-16
+2. Javascritpt 专题系列 - 2023-01-16
 
 ## Javascript 深入系列 - [冴羽](https://github.com/mqyqingfeng/Blog)
 1. [原型和原型链](https://github.com/huiyiwanan/Blog2023/issues/1)
