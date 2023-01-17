@@ -18,9 +18,9 @@ huiyiwanan的博客
 10. [JavaScript深入之call和apply的模拟实现](https://github.com/huiyiwanan/Blog2023/issues/10)
 11. [JavaScript深入之new的模拟实现](https://github.com/huiyiwanan/Blog2023/issues/11)
 12. [JavaScript深入之类数组对象与arguments](https://github.com/huiyiwanan/Blog2023/issues/12)
-12. [JavaScript深入之创建对象的多种方式以及优缺点](https://github.com/huiyiwanan/Blog2023/issues/13)
-12. [JavaScript深入之继承的多种方式以及优缺点](https://github.com/huiyiwanan/Blog2023/issues/14)
-12. [JavaScript深入系列正式完结！](https://github.com/huiyiwanan/Blog2023/issues/15)
+13. [JavaScript深入之创建对象的多种方式以及优缺点](https://github.com/huiyiwanan/Blog2023/issues/13)
+14. [JavaScript深入之继承的多种方式以及优缺点](https://github.com/huiyiwanan/Blog2023/issues/14)
+15. [JavaScript深入系列正式完结！](https://github.com/huiyiwanan/Blog2023/issues/15)
 
 ## Javascritpt 专题系列 - 学自[冴羽](https://github.com/mqyqingfeng/Blog)
 1. [防抖](https://github.com/mqyqingfeng/Blog/issues/17)
