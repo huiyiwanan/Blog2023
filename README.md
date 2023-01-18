@@ -23,5 +23,5 @@ huiyiwanan的博客
 15. [JavaScript深入系列正式完结！](https://github.com/huiyiwanan/Blog2023/issues/15)
 
 ## Javascritpt 专题系列 - 学自[冴羽](https://github.com/mqyqingfeng/Blog)
-1. [防抖](https://github.com/mqyqingfeng/Blog/issues/17)
-2. [节流](https://github.com/mqyqingfeng/Blog/issues/17)
+1. [防抖](https://github.com/huiyiwanan/Blog2023/issues/16)
+2. [节流](https://github.com/huiyiwanan/Blog2023/issues/16)
