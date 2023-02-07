@@ -34,3 +34,6 @@ huiyiwanan的博客
 9. [函数记忆](https://github.com/huiyiwanan/Blog2023/issues/23)
 10. [递归](https://github.com/huiyiwanan/Blog2023/issues/24)
 11. [乱序](https://github.com/huiyiwanan/Blog2023/issues/25)
+
+## ES6系列 - 学自[冴羽](https://github.com/mqyqingfeng/Blog)
+1. 
